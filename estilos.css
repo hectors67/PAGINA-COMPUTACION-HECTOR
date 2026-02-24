@@ -62,19 +62,6 @@ footer {
     text-align: center;
     padding: 15px;
 }
-
-
-
-
-
-
-
-
-
-body {
-    font-family: Arial;
-    margin: 0;
-}
  
 /* MENÚ */
 nav {
@@ -91,11 +78,11 @@ nav a {
     margin: 5px;
     border-radius: 5px;
 }
- 
-/* DIVS */
-div {
+
+/* DIV para la segunda pagina */
+.pagina2 div {
     padding: 60px;
     margin: 20px;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
     border-radius: 8px;
 }
